@@ -68,7 +68,7 @@ Add ```$``` to the end of a message of phone number to cancel operation
 
 <!-- LICENSE -->
 ## License
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <!-- CONTACT -->
 ## Contact
