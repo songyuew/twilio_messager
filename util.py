@@ -1,6 +1,9 @@
 import datetime
 import csv
 
+'''
+Replace YOUR_ACCOUNT_SID and YOUR_AUTH_TOKEN with your own credentials
+'''
 account_sid = "YOUR_ACCOUNT_SID"
 auth_token = "YOUR_AUTH_TOKEN"
 
