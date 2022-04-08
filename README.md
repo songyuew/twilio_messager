@@ -71,7 +71,7 @@ You may lookup your country code [here](https://countrycode.org/)
 
 ### Cancel
 
-Add `$` to the end of a message of phone number to cancel operation
+Add `$` to the end of a message or phone number to cancel operation
 
 ![cancel](/img/cancel.png)
 
