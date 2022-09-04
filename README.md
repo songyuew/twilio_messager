@@ -90,8 +90,6 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 ## Contact
 
-Songyue Wang Aaron - me@songyue.wang
-
 Project Link: [https://github.com/songyuew/twilio_messager](https://github.com/songyuew/twilio_messager)
 
 <!-- ACKNOWLEDGMENTS -->
