@@ -115,7 +115,7 @@ def mainMenu():
                 switchNumber()
             elif sel == "3":
                 print("Instance exited")
-                exit()
+                os._exit(0)
 
 def receiving():
     app.run(debug=False)
