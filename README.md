@@ -19,6 +19,12 @@ Follow these steps to use this application locally.
   pip install -U Flask
   ```
 
+   OR:
+
+   ```
+   pip install -r requirements.txt
+   ```
+
 ### Set Account SID and Auth Token
 
 1. Go to [Twilio console](https://www.twilio.com/console) to get your credentials
